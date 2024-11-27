@@ -5,3 +5,9 @@
 h1 {
     font-family: Poppins;
 }
+
+ul,
+li,
+p {
+    font-family: "Nunito Sans";
+}
